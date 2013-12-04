@@ -1,4 +1,2 @@
-OnlineUpdate
+Linux C 学习
 ============
-
-PHP在线更新程序。
